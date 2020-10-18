@@ -1,0 +1,6 @@
+Europe 0 0 128
+Amerique 128 0 128
+Bresil 128 0 0
+Afrique 0 128 128
+Oceanie 255 153 0
+Asie 0 130 10
